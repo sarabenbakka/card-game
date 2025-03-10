@@ -8,3 +8,8 @@ A Python-based card game implementation.
 
 ## Requirements
 - Python 3.x
+
+  
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/03cbb8e8-38b9-4a7c-ac8f-73a105228b53)
